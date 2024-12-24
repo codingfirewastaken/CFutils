@@ -432,6 +432,7 @@ public class Modules extends System<Modules> {
         add(new NoMiningTrace());
         add(new Portals());
         add(new Rotation());
+        add(new Autofish());
     }
 
     private void initRender() {
