@@ -440,8 +440,8 @@ public class Modules extends System<Modules> {
         add(new BlockSelection());
         add(new Breadcrumbs());
         add(new BreakIndicators());
-        addCheat(new CameraTweaks());
-        addCheat(new Freecam());
+        add(new CameraTweaks());
+        add(new Freecam());
         add(new FreeLook());
         add(new Fullbright());
         add(new HandView());
@@ -449,11 +449,11 @@ public class Modules extends System<Modules> {
         add(new LightOverlay());
         add(new Marker());
         add(new NoRender());
-        addCheat(new Tracers());
+        add(new Tracers());
         add(new Trail());
         add(new UnfocusedCPU());
         add(new WaypointsModule());
-        addCheat(new Xray());
+        add(new Xray());
         add(new Zoom());
         add(new Blur());
         add(new BetterTab());
