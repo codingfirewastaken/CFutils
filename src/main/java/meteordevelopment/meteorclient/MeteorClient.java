@@ -44,8 +44,8 @@ import java.io.File;
 import java.lang.invoke.MethodHandles;
 
 public class MeteorClient implements ClientModInitializer {
-    public static final String MOD_ID = "asteroid";
-    public static final String CONFIG_DIR = "config/asteroid";
+    public static final String MOD_ID = "CFutils";
+    public static final String CONFIG_DIR = "config/CFutils";
     public static final ModMetadata MOD_META;
     public static final String NAME;
     public static final  Version VERSION;
