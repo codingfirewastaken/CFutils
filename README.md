@@ -1,4 +1,4 @@
-Sponsored by COI, trust.
+I AM NOT LIABLE IF YOU GET BANNED ON ANY SERVER YOU USE THIS ON
 
 Made for fun (and for a slight amount of trolling)
 
