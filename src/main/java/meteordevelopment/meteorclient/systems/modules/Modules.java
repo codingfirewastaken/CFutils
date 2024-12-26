@@ -424,6 +424,11 @@ public class Modules extends System<Modules> {
         add(module);
     }
 
+        private void initCombat() {
+        add(new Hitboxes());
+    }
+
+
     private void initPlayer() {
         add(new AutoReplenish());
         add(new AutoTool());
