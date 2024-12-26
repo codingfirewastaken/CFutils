@@ -426,12 +426,8 @@ public class Modules extends System<Modules> {
         add(module);
     }
 
-        private void initCombat() {
-        add(new Hitboxes());
-    }
 
-
-    private void initPlayer() {
+     private void initPlayer() {
         add(new AutoReplenish());
         add(new AutoTool());
         add(new FakePlayer());
@@ -477,11 +473,6 @@ public class Modules extends System<Modules> {
         add(new InventoryTweaks());
         add(new Ambience());
     }
-
-    private void initFun() {
-        add(new BookBot());
-    }
-
     private void blacklist() {
         final File blacklistFile = new File(MeteorClient.FOLDER.getPath() + "/blacklist.txt");
         if (!blacklistFile.exists()) {
