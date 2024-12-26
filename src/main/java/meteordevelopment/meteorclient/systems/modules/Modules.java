@@ -476,6 +476,10 @@ public class Modules extends System<Modules> {
         add(new Ambience());
     }
 
+    private void initFun() {
+        add(new BookBot());
+    }
+
     private void blacklist() {
         final File blacklistFile = new File(MeteorClient.FOLDER.getPath() + "/blacklist.txt");
         if (!blacklistFile.exists()) {
