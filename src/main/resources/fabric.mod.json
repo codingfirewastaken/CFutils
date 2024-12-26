@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "name": "Asteroid",
+  "name": "CFutils",
   "id": "asteroid",
   "version": "${version}",
-  "description": "Utility client with only the utilities. Forked from Meteor Client by Moxvallix. Meteor Client by MineGame159, squidoodly and seasnail",
+  "description": "#1 most skidded client. Forked from Asteroid by Moxvallix, which was forked from Meteor Client by MineGame159, squidoodly and seasnail",
   "authors": [
     "MineGame159",
     "squidoodly",
     "seasnail",
-    "Moxvallix"
+    "Moxvallix",
+    "codingfire"
   ],
   "contact": {
-    "homepage": "https://github.com/optipack/asteroid",
-    "issues": "https://github.com/optipack/asteroid/issues",
-    "sources": "https://github.com/optipack/asteroid"
+    "homepage": "https://github.com/codingfirewastaken/CFutils",
+    "issues": "https://github.com/codingfirewastaken/CFutils/issues",
+    "sources": "https://github.com/codingfirewastaken/CFutils"
   },
   "license": "GPL-3.0",
   "icon": "assets/asteroid/icon.png",
