@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "CFutils",
-  "id": "asteroid",
+  "id": "CFutils",
   "version": "${version}",
   "description": "#1 most skidded client. Forked from Asteroid by Moxvallix, which was forked from Meteor Client by MineGame159, squidoodly and seasnail",
   "authors": [
@@ -17,7 +17,7 @@
     "sources": "https://github.com/codingfirewastaken/CFutils"
   },
   "license": "GPL-3.0",
-  "icon": "assets/asteroid/icon.png",
+  "icon": "assets/asteroid/CFutils.png",
   "environment": "client",
   "entrypoints": {
     "client": [
@@ -45,6 +45,7 @@
   },
   "breaks": {
     "meteor-client": "*",
+    "asteroid": "*",
     "optifabric": "*",
     "feather": "*",
     "origins": "*",
