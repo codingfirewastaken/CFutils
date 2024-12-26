@@ -442,7 +442,7 @@ public class Modules extends System<Modules> {
 
     private void initRender() {
         add(new BetterTooltips());
-        addCheat(new BlockESP());
+        add(new BlockESP());
         add(new BlockSelection());
         add(new Breadcrumbs());
         add(new BreakIndicators());
